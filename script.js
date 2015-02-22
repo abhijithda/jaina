@@ -28,9 +28,7 @@ app.controller('displayGodsController',
       console.log($scope.allGods);
     });
 
-    $scope.gridOptions = {
-      data: 'allGods',
-      columnDefs: [{
+    var columnDefs = [{
         field: 'Name',
         displayName: 'Name'
       }, {
@@ -48,7 +46,11 @@ app.controller('displayGodsController',
       }, {
         field: 'Yakshi',
         displayName: 'Yakshi',
-      }],
+      }];
+
+    $scope.gridOptions = {
+      data: 'allGods',
+      columnDefs: 'columnDefs',
       enableCellSelection: false,
       enableColumnResize: true
     };
