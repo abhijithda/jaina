@@ -1,0 +1,27 @@
+    {
+      "Gods": [{
+        "Name": "Adinatha",
+        "Color": "Golden",
+        "Emblem": "Bull",
+        "Father": "King Nabhi",
+        "Mother": "Queen Marudevi",
+        "Type": "Tirthankar",
+        "Yaksha": "Gomukha",
+        "Yakshi": "Chakreshwari"
+      }, {
+        "Name": "Ajitanatha",
+        "Color": "Golden",
+        "Emblem": "Elephant",
+        "Father": "King Jitashatru Raja",
+        "Mother": "Queen Vijaya",
+        "Type": "Tirthankar",
+        "Yaksha": "",
+        "Yakshi": ""
+      }, {
+        "Name": "Bahubali",
+        "Type": "Siddha"
+      }, {
+        "Name": "Bharata",
+        "Type": "Siddha"
+      }]
+    }
