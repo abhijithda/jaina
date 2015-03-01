@@ -7,7 +7,7 @@
         }]
       },
       "Person": [{
-        "Name": "Adinatha",
+        "Name": "Rishabha, Adinatha",
         "Color": "Golden",
         "Emblem": "Bull",
         "Father": "King Nabhi",
@@ -27,7 +27,48 @@
         "Yaksha": "Mahayaksha",
         "Yakshi": "Ajitabala"
       }, {
-        
+        "Name": "Sambhavanatha",
+        "Emblem": "Horse",
+        "Color": "Golden",
+        "Type": "Tīrthaṅkaras",
+        "Number": 3
+      }, {
+        "Name": "Abhinandananatha",
+        "Emblem": "Ape",
+        "Color": "Golden",
+        "Type": "Tīrthaṅkaras",
+        "Number": 4
+      }, {
+        "Name": "Sumatinatha",
+          "Emblem": "Heron",
+          "Color": "Golden",
+          "Type": "Tīrthaṅkaras",
+          "Number": 5
+      }, {
+        "Name": "Padmaprabha",
+          "Emblem": "Lotus",
+          "Color": "Red",
+          "Type": "Tīrthaṅkaras",
+          "Number": 6
+      }, {
+        "Name": "Suparshvanatha",
+        "Emblem": "Swastika",
+        "Color": "Golden",
+        "Type": "Tīrthaṅkaras",
+        "Number": 7
+      }, {
+        "Name": "Chandraprabha",
+        "Emblem": "Moon",
+        "Color": "White",
+        "Type": "Tīrthaṅkaras",
+        "Number": 8
+      }, {
+        "Name": "Pushpadanta",
+        "Emblem": "Dolphin or Makara (sea dragon)",
+        "Color": "White",
+        "Type": "Tīrthaṅkaras",
+        "Number": 9
+      }, {
         "Name": " Sheetalanath",
         "Color": "Golden",
         "Emblem": "Elephant",
@@ -37,7 +78,78 @@
         "Number": 10,
         "Yaksha": "Brahma",
         "Yakshi": "Manavi"
-
+      }, {
+        "Name": "Shreyanasanatha",
+        "Emblem": "Rhinoceros",
+        "Color": "Golden",
+        "Type": "Tīrthaṅkaras",
+        "Number": 11
+      }, {
+        "Name": "Vasupujya",
+        "Emblem": "Buffalo",
+        "Color": "Red",
+        "Type": "Tīrthaṅkaras",
+        "Number": 12
+      }, {
+        "Name": "Vimalanatha",
+        "Emblem": "Boar",
+        "Color": "Golden",
+        "Type": "Tīrthaṅkaras",
+        "Number": 13
+      }, {
+        "Name": "Anantanatha",
+        "Emblem": "Hawk or ram or bear",
+        "Color": "Golden",
+        "Type": "Tīrthaṅkaras",
+        "Number": 14
+      }, {
+        "Name": "Dharmanatha",
+        "Emblem": "Thunderbolt",
+        "Color": "Golden",
+        "Type": "Tīrthaṅkaras",
+        "Number": 15
+      }, {
+        "Name": "Shantinatha",
+        "Emblem": "Antelope or deer",
+        "Color": "Golden",
+        "Type": "Tīrthaṅkaras, Cakravartīs (5)",
+        "Number": 16
+      }, {
+        "Name": "Kunthunatha",
+        "Emblem": "Goat",
+        "Color": "Golden",
+        "Type": "Tīrthaṅkaras, Cakravartīs (6)",
+        "Number": 17
+      }, {
+        "Name": "Aranatha",
+        "Emblem": "Nandyavarta or fish",
+        "Color": "Golden",
+        "Type": "Tīrthaṅkaras, Cakravartīs (7)",
+        "Number": 18
+      }, {
+        "Name": "Mallinatha",
+        "Emblem": "Water jug",
+        "Color": "Blue",
+        "Type": "Tīrthaṅkaras",
+        "Number": 19
+      }, {
+        "Name": "Munisuvrata",
+        "Emblem": "Tortoise",
+        "Color": "Black",
+        "Type": "Tīrthaṅkaras",
+        "Number": 20
+      }, {
+        "Name": "Naminatha",
+        "Emblem": "Blue lotus",
+        "Color": "Golden",
+        "Type": "Tīrthaṅkaras",
+        "Number": 21
+      }, {
+        "Name": "Neminatha",
+        "Emblem": "Conch shell",
+        "Color": "Black",
+        "Type": "Tīrthaṅkaras",
+        "Number": 22
       }, {
         "Name": "Parshvanatha",
         "Color": "Green",
@@ -58,6 +170,90 @@
         "Number": 24,
         "Yaksha": "Matamga",
         "Yakshi": "Siddhayika"
+      }, {
+        "Name": "Acala",
+          "Type": "Baladeva",
+          "Number": 1
+      }, {
+        "Name": "Vijaya",
+          "Type": "Baladeva",
+          "Number": 2
+      }, {
+        "Name": "Dharmaprabha (Bhadra)",
+          "Type": "Baladeva",
+          "Number": 3
+      }, {
+        "Name": "Suprabha",
+          "Type": "Baladeva",
+          "Number": 4
+      }, {
+        "Name": "Sudarsana",
+          "Type": "Baladeva",
+          "Number": 5
+      }, {
+        "Name": "Nandi (Ananda)",
+          "Type": "Baladeva",
+          "Number": 6
+      }, {
+        "Name": "Nandimitra (Mandana)",
+          "Type": "Baladeva",
+          "Number": 7
+      }, {
+        "Name": "Tripushta(or prishtha)",
+          "Type": "Vāsudevas",
+          "Number": 1
+      }, {
+        "Name": "Dvipushta (or prishtha)",
+          "Type": "Vāsudevas",
+          "Number": 2
+      }, {
+        "Name": "Svayambhu",
+          "Type": "Vāsudevas",
+          "Number": 3
+      }, {
+        "Name": "Purushottama",
+          "Type": "Vāsudevas",
+          "Number": 4
+      }, {
+        "Name": "Nara (Purusha) simha",
+          "Type": "Vāsudevas",
+          "Number": 5
+      }, {
+        "Name": "Pundarika",
+          "Type": "Vāsudevas",
+          "Number": 6
+      }, {
+        "Name": "Dattadeva",
+          "Type": "Vāsudevas",
+          "Number": 7
+      }, {
+        "Name": "Asvagriva",
+          "Type": "Prativāsudevas",
+          "Number": 1
+      }, {
+        "Name": "Taraka",
+          "Type": "Prativāsudevas",
+          "Number": 2
+      }, {
+        "Name": "Naraka",
+          "Type": "Prativāsudevas",
+          "Number": 3
+      }, {
+        "Name": "Nisumbha",
+          "Type": "Prativāsudevas",
+          "Number": 4
+      }, {
+        "Name": "Madhukatiabha",
+          "Type": "Prativāsudevas",
+          "Number": 5
+      }, {
+        "Name": "Prahlada",
+          "Type": "Prativāsudevas",
+          "Number": 6
+      }, {
+        "Name": "Bali",
+          "Type": "Prativāsudevas",
+          "Number": 7
       }, {
         "Name": "Rama",
         "Father": "",
