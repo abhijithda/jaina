@@ -7,13 +7,13 @@ app.service('getInfo', function($http, $q) {
     getPersonsJSON: function() {
       if (angular.isUndefined(persons)) {
         persons = {};
-            return $http.get('json/persons.json').success(
+        return $http.get('https://cdn.rawgit.com/abhijithda/jain-gods/master/json/persons.json').success(
           function(data, status, headers, config){
             persons["Persons"] = data["Persons"];
           }
         ).error(
           function(data, status, headers, config){
-        return $http.get('https://cdn.rawgit.com/abhijithda/jain-gods/master/json/persons.json').success(
+            return $http.get('json/persons.json').success(
               function(data, status, headers, config){
                 console.log("Retrieving JSON from local copy");
                 persons["Persons"] = data["Persons"];
