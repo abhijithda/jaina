@@ -8,92 +8,92 @@
       },
       "Person": [{
         "Name": "Adinatha",
-        "Number": 1,
         "Color": "Golden",
         "Emblem": "Bull",
         "Father": "King Nabhi",
         "Mother": "Queen Marudevi",
         "Type": "Tīrthaṅkaras",
+        "Number": 1,
         "Yaksha": "Gomukha",
         "Yakshi": "Chakreshwari"
       }, {
         "Name": "Ajitanatha",
-        "Number": 2,
         "Color": "Golden",
         "Emblem": "Elephant",
         "Father": "King Jitashatru Raja",
         "Mother": "Queen Vijaya",
         "Type": "Tīrthaṅkaras",
+        "Number": 2,
         "Yaksha": "Mahayaksha",
         "Yakshi": "Ajitabala"
       }, {
         
         "Name": " Sheetalanath",
-        "Number": 10,
         "Color": "Golden",
         "Emblem": "Elephant",
         "Father": "King Dridharatha",
         "Mother": "Queen Nanda",
         "Type": "Tīrthaṅkaras",
+        "Number": 10,
         "Yaksha": "Brahma",
         "Yakshi": "Manavi"
 
       }, {
         "Name": "Parshvanatha",
-        "Number": 23,
         "Color": "Green",
         "Emblem": "Snake",
         "Father": "King Aśvasena",
         "Mother": "Queen Vāmā",
         "Type": "Tīrthaṅkaras",
+        "Number": 23,
         "Yaksha": "Dharanendra, Parshwayaksha",
         "Yakshi": "Padmavati"
       }, {
         "Name": "Mahaveera",
-        "Number": 24,
         "Color": "Golden",
         "Emblem": "Lion",
         "Father": "King Siddartha",
         "Mother": "Queen Trishala,",
         "Type": "Tīrthaṅkaras",
+        "Number": 24,
         "Yaksha": "Matamga",
         "Yakshi": "Siddhayika"
       }, {
         "Name": "Rama",
-        "Number": 8,
         "Father": "",
         "Mother": "",
-        "Type": "Baladeva"
+        "Type": "Baladeva",
+        "Number": 8
       }, {
         "Name": "Lakshmana",
-        "Number": 8,
         "Father": "",
         "Mother": "",
-        "Type": "Vāsudevas"
+        "Type": "Vāsudevas",
+        "Number": 8
       }, {
         "Name": "Ravana",
-        "Number": 8,
         "Father": "",
         "Mother": "",
-        "Type": "Prativāsudevas"
+        "Type": "Prativāsudevas",
+        "Number": 8
       }, {
         "Name": "Rama (Balarama)",
-        "Number": 9,
         "Father": "",
         "Mother": "",
-        "Type": "Baladeva"
+        "Type": "Baladeva",
+        "Number": 9
       }, {
         "Name": "Krishna",
-        "Number": 9,
         "Father": "",
         "Mother": "",
-        "Type": "Vāsudevas"
+        "Type": "Vāsudevas",
+        "Number": 9
       }, {
         "Name": "Jarasandha",
-        "Number": 9,
         "Father": "",
         "Mother": "",
-        "Type": "Prativāsudevas"
+        "Type": "Prativāsudevas",
+        "Number": 9
       }, {
         "Name": "Bahubali",
         "Father": "Adinatha",
@@ -103,6 +103,7 @@
         "Name": "Bharata",
         "Father": "Adinatha",
         "Mother": "Sumangala",
-        "Type": "Siddha, Cakravartīs"
+        "Type": "Cakravartīs",
+        "Number": 1
       }]
     }
