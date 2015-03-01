@@ -1,4 +1,4 @@
-var app = angular.module('jainApp', ['ngGrid']);
+var app = angular.module('jainApp', ['ngAnimate', 'ngGrid']);
 
 app.service('getInfo', function($http, $q) {
   var persons;
@@ -7,7 +7,7 @@ app.service('getInfo', function($http, $q) {
     getPersonsJSON: function() {
       if (angular.isUndefined(persons)) {
         persons = {};
-        return $http.get('https://cdn.rawgit.com/abhijithda/jain-gods/master/json/persons.json').success(
+        return $http.get('https://cdn.rawgit.com/abhijithda/jaina/master/json/persons.json').success(
           function(data, status, headers, config){
             persons["Persons"] = data["Persons"];
           }
