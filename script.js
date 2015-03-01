@@ -1,18 +1,30 @@
 var app = angular.module('jainApp', ['ngGrid']);
 
 app.service('getInfo', function($http, $q) {
-  var items;
+  var persons;
 
   return {
-    getGodsJSON: function() {
-      if (angular.isUndefined(items)) {
-        items = {};
-        // return $http.get('gods.json').success(function(jsonData) {
-        return $http.get('https://cdn.rawgit.com/abhijithda/jain-gods/master/gods.json').success(function(jsonData) {
-          items["Gods"] = jsonData["Gods"];
-        });
+    getPersonsJSON: function() {
+      if (angular.isUndefined(persons)) {
+        persons = {};
+            return $http.get('json/persons.json').success(
+          function(data, status, headers, config){
+            persons["Persons"] = data["Persons"];
+          }
+        ).error(
+          function(data, status, headers, config){
+        return $http.get('https://cdn.rawgit.com/abhijithda/jain-gods/master/json/persons.json').success(
+              function(data, status, headers, config){
+                console.log("Retrieving JSON from local copy");
+                persons["Persons"] = data["Persons"];
+                console.log("Persons from local copy");
+                console.log(persons);
+              }
+            );
+          }
+        );
       } else {
-        return $q.when(items);
+        return $q.when(persons);
       }
     }
   };
@@ -22,24 +34,42 @@ app.service('getInfo', function($http, $q) {
 app.controller('displayGodsController',
   function($scope, getInfo) {
 
-    getInfo.getGodsJSON().then(function(result) {
-      $scope.allGods = result.data.Gods;
-      console.log("All Gods");
-      console.log($scope.allGods);
-    });
+    getInfo.getPersonsJSON().then(
+      // Success Callback
+      function(result) {
+        $scope.allPersons = result.data.Person;
+        console.log("then Success callback - All Persons");
+        console.log($scope.allPersons);
+      }, 
+      // Error Callback
+      function(result) {
+        $scope.allPersons = result.data.Persons;
+        console.log("then Error callback - All Persons");
+        console.log($scope.allPersons);
+      }
+    );
 
-    var columnDefs = [{
+    $scope.columnDefs = [{
         field: 'Name',
         displayName: 'Name'
       }, {
         field: 'Type',
         displayName: 'Type',
       }, {
+        field: 'Number',
+        displayName: 'Number',
+      }, {
         field: 'Color',
         displayName: 'Color',
       }, {
         field: 'Emblem',
         displayName: 'Emblem',
+      }, {
+        field: 'Father',
+        displayName: 'Father',
+      }, {
+        field: 'Mother',
+        displayName: 'Mother',
       }, {
         field: 'Yaksha',
         displayName: 'Yaksha',
@@ -48,11 +78,12 @@ app.controller('displayGodsController',
         displayName: 'Yakshi',
       }];
 
-    $scope.gridOptions = {
-      data: 'allGods',
+    $scope.gridPerson = {
+      data: 'allPersons',
       columnDefs: 'columnDefs',
       enableCellSelection: false,
-      enableColumnResize: true
+      enableColumnResize: true,
+      sortInfo: {fields:['Type', 'Number'], directions:['asc']}
     };
 
   });
