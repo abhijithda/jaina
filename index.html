@@ -18,11 +18,14 @@
 
     <div class="headerPane">
       <h1 class="header">Jai Jinendra</h1>
+      <h2 class="header">References</h2>
+      <ul ng-repeat='(name, link) in references.Links'>
+        <li> <a href="{{link}}">{{name}}</a> </li>
+      </ul>
       <hr />
     </div>
 
     <div class="left">
-      <h2 class="header"></h2>
       <div ng-grid="gridPerson"></div>
     </div>
 

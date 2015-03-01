@@ -37,6 +37,9 @@ app.controller('displayGodsController',
     getInfo.getPersonsJSON().then(
       // Success Callback
       function(result) {
+        $scope.references = result.data.References;
+        console.log("then Success callback - Reference");
+        console.log($scope.references);
         $scope.allPersons = result.data.Person;
         console.log("then Success callback - All Persons");
         console.log($scope.allPersons);

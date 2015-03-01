@@ -1,10 +1,10 @@
     {
       "References": {
-        "Links": [{
-          "http://www.jain24.com/category/tirthankar/": "Tīrthaṅkaras and their details",
-          "http://www.myjainism.com/PDF/YakshaYakshini.pdf": "Yaksha and Yakshi details",
-          "http://en.wikipedia.org/wiki/Salakapurusa": "Salakapurusas"
-        }]
+        "Links": {
+          "Tīrthaṅkaras and their details": "http://www.jain24.com/category/tirthankar/",
+          "Yaksha and Yakshi details": "http://www.myjainism.com/PDF/YakshaYakshini.pdf",
+          "Salakapurusas": "http://en.wikipedia.org/wiki/Salakapurusa"
+        }
       },
       "Person": [{
         "Name": "Rishabha, Adinatha",
