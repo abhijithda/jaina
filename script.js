@@ -83,7 +83,8 @@ app.controller('displayGodsController',
       columnDefs: 'columnDefs',
       enableCellSelection: false,
       enableColumnResize: true,
-      sortInfo: {fields:['Type', 'Number'], directions:['asc']}
+      sortInfo: {fields:['Type', 'Number'], directions:['asc']},
+      virtualizationThreshold: 100
     };
 
   });
