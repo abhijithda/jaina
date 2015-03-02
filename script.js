@@ -7,10 +7,16 @@ app.service('getInfo', function($http, $q) {
     getPersonsJSON: function() {
       if (angular.isUndefined(persons)) {
         persons = {};
-        return $http.get('https://cdn.rawgit.com/abhijithda/jaina/master/json/persons.json').success(
+        /* CDN is for production, and is cached for long time. For dev/testing, use rawgit directly.
+        var personsJSONFile = 'https://cdn.rawgit.com/abhijithda/jaina/master/json/persons.json';
+        */
+        var personsJSONFile = 'https://rawgit.com/abhijithda/jaina/master/json/persons.json';
+        // personsJSONFile = 'json/persons.json';
+        return $http.get(personsJSONFile).success(
           function(data, status, headers, config){
             persons["Persons"] = data["Persons"];
           }
+        /*
         ).error(
           function(data, status, headers, config){
             return $http.get('json/persons.json').success(
@@ -22,6 +28,7 @@ app.service('getInfo', function($http, $q) {
               }
             );
           }
+        */
         );
       } else {
         return $q.when(persons);
@@ -38,17 +45,19 @@ app.controller('displayGodsController',
       // Success Callback
       function(result) {
         $scope.references = result.data.References;
-        console.log("then Success callback - Reference");
+        console.log("then Success callback - References");
         console.log($scope.references);
         $scope.allPersons = result.data.Person;
         console.log("then Success callback - All Persons");
         console.log($scope.allPersons);
+      /*
       }, 
       // Error Callback
       function(result) {
         $scope.allPersons = result.data.Persons;
         console.log("then Error callback - All Persons");
         console.log($scope.allPersons);
+      */
       }
     );
 
