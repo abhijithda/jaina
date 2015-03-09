@@ -1,16 +1,20 @@
     {
       "References": {
         "Links": {
-          "Tīrthaṅkaras and their details": "http://www.jain24.com/category/tirthankar/",
-          "Yaksha and Yakshi details": "http://www.myjainism.com/PDF/YakshaYakshini.pdf",
-          "Salakapurusas": "http://en.wikipedia.org/wiki/Salakapurusa"
+          "Jain Tirthankars and their breif stories @JainOutlook": "http://jainoutlook.com/jainism/jain_tirthankars.php",
+          "Tīrthaṅkaras and their details @Jain24 ": "http://www.jain24.com/category/tirthankar/",
+          "Yaksha and Yakshi details @MyJainism": "http://www.myjainism.com/PDF/YakshaYakshini.pdf",
+          "Salakapurusas @Wikipedia": "http://en.wikipedia.org/wiki/Salakapurusa"
         }
       },
       "Person": [{
-        "Name": "Rishabha, Adinatha",
+        "Name": "Rishabha (Adinatha)",
         "Color": "Golden",
         "Emblem": "Bull",
         "Father": "King Nabhi",
+        "Images": {
+          "Name": "https://onedrive.live.com/download?cid=C9C9E425E3837545&resid=C9C9E425E3837545!7941&authkey=AMBwCL6Ee9JFEKo"
+        },
         "Mother": "Queen Marudevi",
         "Type": "Tīrthaṅkaras",
         "Number": 1,
@@ -136,6 +140,9 @@
         "Name": "Munisuvrata",
         "Emblem": "Tortoise",
         "Color": "Black",
+        "Images": {
+          "Name": "https://onedrive.live.com/download?cid=C9C9E425E3837545&resid=C9C9E425E3837545%2111247&authkey=AALjo01RwWzh-8g"
+        },
         "Type": "Tīrthaṅkaras",
         "Number": 20
       }, {

@@ -51,7 +51,7 @@ app.controller('displayGodsController',
         console.log("then Success callback - All Persons");
         console.log($scope.allPersons);
       /*
-      }, 
+      },
       // Error Callback
       function(result) {
         $scope.allPersons = result.data.Persons;
@@ -61,15 +61,31 @@ app.controller('displayGodsController',
       }
     );
 
+    var nameTemplate = "<div ng-if='row.entity.Images.Name == null'> {{row.entity.Name}} </div>" +
+      "<div ng-if='row.entity.Images.Name != null'> " +
+        "<a href='' ng-click='showImage=showImage?0:1' ng-init='showImage=1'> " +
+          "{{row.entity.Name}} " +
+        "</a>" +
+        "<div ng-if='showImage==1'>" +
+          "<img ng-src={{row.entity.Images.Name}} width='300' height='300' frameborder='0' scrolling='no'> </img>" +
+        // Hyper link only:
+        // "<div ng-if='row.entity.Images.Name != null'> <a href='{{row.entity.Images.Name}}'> {{row.entity.Name}} </a> </div> ";
+        "</div>" +
+      "</div> ";
+
+
     $scope.columnDefs = [{
         field: 'Name',
-        displayName: 'Name'
+        displayName: 'Name',
+        cellTemplate: nameTemplate,
+        width: 300
       }, {
         field: 'Type',
         displayName: 'Type',
       }, {
         field: 'Number',
         displayName: 'Number',
+        width: '50px'
       }, {
         field: 'Color',
         displayName: 'Color',
@@ -95,6 +111,9 @@ app.controller('displayGodsController',
       columnDefs: 'columnDefs',
       enableCellSelection: false,
       enableColumnResize: true,
+      rowHeight: 300,
+      showColumnMenu: true,
+      showFilter: true,
       sortInfo: {fields:['Type', 'Number'], directions:['asc']},
       virtualizationThreshold: 100
     };
