@@ -1,4 +1,4 @@
-var app = angular.module('jainApp', ['ngAnimate', 'ngGrid']);
+var app = angular.module('jainApp', ['ngAnimate', 'ngTouch', 'ui.grid']);
 
 app.service('getInfo', function($http, $q) {
   var persons;
@@ -73,42 +73,8 @@ app.controller('displayGodsController',
         "</div>" +
       "</div> ";
 
-
-    $scope.columnDefs = [{
-        field: 'Name',
-        displayName: 'Name',
-        cellTemplate: nameTemplate,
-        width: 300
-      }, {
-        field: 'Type',
-        displayName: 'Type',
-      }, {
-        field: 'Number',
-        displayName: 'Number',
-        width: '50px'
-      }, {
-        field: 'Color',
-        displayName: 'Color',
-      }, {
-        field: 'Emblem',
-        displayName: 'Emblem',
-      }, {
-        field: 'Father',
-        displayName: 'Father',
-      }, {
-        field: 'Mother',
-        displayName: 'Mother',
-      }, {
-        field: 'Yaksha',
-        displayName: 'Yaksha',
-      }, {
-        field: 'Yakshi',
-        displayName: 'Yakshi',
-      }];
-
     $scope.gridPerson = {
       data: 'allPersons',
-      columnDefs: 'columnDefs',
       enableCellSelection: false,
       enableColumnResize: true,
       rowHeight: 300,
@@ -118,4 +84,37 @@ app.controller('displayGodsController',
       virtualizationThreshold: 100
     };
 
-  });
+    $scope.gridPerson.columnDefs = [{
+      field: 'Name',
+      displayName: 'Name',
+      cellTemplate: nameTemplate,
+      width: 300
+    }, {
+      field: 'Type',
+      displayName: 'Type'
+    }, {
+      field: 'Number',
+      displayName: 'Number',
+      width: 50
+    }, {
+      field: 'Color',
+      displayName: 'Color'
+    }, {
+      field: 'Emblem',
+      displayName: 'Emblem'
+    }, {
+      field: 'Father',
+      displayName: 'Father'
+    }, {
+      field: 'Mother',
+      displayName: 'Mother'
+    }, {
+      field: 'Yaksha',
+      displayName: 'Yaksha'
+    }, {
+      field: 'Yakshi',
+      displayName: 'Yakshi'
+    }];
+
+  }
+);
