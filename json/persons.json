@@ -44,16 +44,19 @@
         "Number": 4
       }, {
         "Name": "Sumatinatha",
-          "Emblem": "Heron",
-          "Color": "Golden",
-          "Type": "Tīrthaṅkaras",
-          "Number": 5
+        "Emblem": "Heron",
+        "Color": "Golden",
+        "Type": "Tīrthaṅkaras",
+        "Number": 5
       }, {
         "Name": "Padmaprabha",
-          "Emblem": "Lotus",
-          "Color": "Red",
-          "Type": "Tīrthaṅkaras",
-          "Number": 6
+        "Color": "Red",
+        "Emblem": "Lotus",
+        "Images": {
+          "Name": "https://onedrive.live.com/download?cid=C9C9E425E3837545&resid=C9C9E425E3837545!11144&authkey=AMBwCL6Ee9JFEKo"
+        },
+        "Type": "Tīrthaṅkaras",
+        "Number": 6
       }, {
         "Name": "Suparshvanatha",
         "Emblem": "Swastika",
@@ -90,8 +93,11 @@
         "Number": 11
       }, {
         "Name": "Vasupujya",
-        "Emblem": "Buffalo",
         "Color": "Red",
+        "Emblem": "Buffalo",
+        "Images": {
+          "Name": "https://onedrive.live.com/download?cid=C9C9E425E3837545&resid=C9C9E425E3837545!11125&authkey=AMBwCL6Ee9JFEKo"
+        },
         "Type": "Tīrthaṅkaras",
         "Number": 12
       }, {
@@ -162,6 +168,9 @@
         "Color": "Green",
         "Emblem": "Snake",
         "Father": "King Aśvasena",
+        "Images": {
+          "Name": "https://onedrive.live.com/download?cid=C9C9E425E3837545&resid=C9C9E425E3837545!11666&authkey=AMBwCL6Ee9JFEKo"
+        },
         "Mother": "Queen Vāmā",
         "Type": "Tīrthaṅkaras",
         "Number": 23,
