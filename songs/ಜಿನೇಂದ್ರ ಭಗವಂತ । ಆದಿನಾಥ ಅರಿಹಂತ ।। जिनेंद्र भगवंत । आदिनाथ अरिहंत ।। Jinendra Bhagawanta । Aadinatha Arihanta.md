@@ -8,26 +8,33 @@
 
 ---
 
-## ಕನ್ನಡ ( कन्नड़ / Kannada )
+1. [ಕನ್ನಡ ( कन्नड़ / Kannada )](#ಕನ್ನಡ)
+1. [हिंदि ( ಹಿಂದಿ / Hindi)](#हिंदि)
+1. [English (ಆಂಗ್ಲ)](#English)
+
+
+## ಕನ್ನಡ
+( कन्नड़ / Kannada )
 
 ಜಿನೇಂದ್ರ ಭಗವಂತ । ಆದಿನಾಥ ಅರಿಹಂತ ।।  
 ಜಿನೇಂದ್ರ ಭಗವಂತ । ಆದಿನಾಥ ಅರಿಹಂತ ।।  
-ಬಸ್ದಿಗೆ ಬಂದೇನೇ । ದಿನಾ ??? ??ತೇನೆ ।।  
-ಬಸ್ದಿಗೆ ಬಂದೇನೇ । ದಿನಾ ??? ??ತೇನೆ ।। ಪ ।।  
+ಬಸ್ದಿಗೆ ಬಂದೇನೇ । ದಿನಾ ??? ಕಲಿತೇನೆ ।।  
+ಬಸ್ದಿಗೆ ಬಂದೇನೇ । ದಿನಾ ??? ಕಲಿತೇನೆ ।। ಪ ।।  
 
 ಮಿಥ್ಯಾತ್ವ ಬಿಟ್ಟೇನೆ । ಸಮ್ಯಕ್ ದರ್ಶನ ಧರಿಸೇನೆ ।।  
 ಮಿಥ್ಯಾತ್ವ ಬಿಟ್ಟೇನೆ । ಸಮ್ಯಕ್ ದರ್ಶನ ಧರಿಸೇನೆ ।।  
 ಮಡಿಯ ಉಟ್ಟೇನೇ । ಮುನಿಗಳಿಗೆ ಆಹಾರ ಕೊಟ್ಟೇನೆ ।।  
 ಮಡಿಯ ಉಟ್ಟೇನೇ । ಮುನಿಗಳಿಗೆ ಆಹಾರ ಕೊಟ್ಟೇನೆ ।। ಜಿನೇಂದ್ರ ಭಗವಂತ...  
 
-ಆರುಕೆಗಳ । ನಿತ್ಯ ತಪ್ಪನೆ ಮಾಡನೇ ।।  
-ಆರುಕೆಗಳ । ನಿತ್ಯ ತಪ್ಪನೆ ಮಾಡನೇ ।।  
+ಆರು ಕ್ರಿಯೆಗಳ । ನಿತ್ಯ ತಪ್ಪನೆ ಮಾಡನೇ ।।  
+ಆರು ಕ್ರಿಯೆಗಳ । ನಿತ್ಯ ತಪ್ಪನೆ ಮಾಡನೇ ।।  
 ಮೂರೂ ರತ್ನಗಳ ಧರಿಸಿ । ಮುಕ್ತಿಗೆ ಹೋದೆನೇ ।।  
 ಮೂರೂ ರತ್ನಗಳ ಧರಿಸಿ । ಮುಕ್ತಿಗೆ ಹೋದೆನೇ ।। ಜಿನೇಂದ್ರ ಭಗವಂತ...  
 
 ---
 
-## हिंदि ( ಹಿಂದಿ / Hindi)
+## हिंदि 
+( ಹಿಂದಿ / Hindi)
 
 जिनेन्द्र भगवंत । आदिनाथ अरिहंत ।।  
 जिनेन्द्र भगवंत । आदिनाथ अरिहंत ।।  
@@ -36,17 +43,18 @@
 
 मित्यत्व बिट्टेने । सम्यक दर्शन दरिसेने ।।  
 मित्यत्व बिट्टेने । सम्यक दर्शन दरिसेने ।।  
-मडीय उट्टेने । मुनिगलिगे आहार कोट्टेने ।। 
+मडीय उट्टेने । मुनिगलिगे आहार कोट्टेने ।।  
 मडीय उट्टेने । मुनिगलिगे आहार कोट्टेने ।। जिनेन्द्र भगवंत...  
 
-आरुकेगल । नित्य तप्पने मादेने ।।  
-आरुकेगल । नित्य तप्पने मादेने ।।  
+आरु क्रियेगल । नित्य तप्पने मादेने ।।  
+आरु क्रियेगल । नित्य तप्पने मादेने ।।  
 मुरू रत्नगला धरिसि । मुक्तिगे होदेने ।।  
 मुरू रत्नगला धरिसि । मुक्तिगे होदेने ।। जिनेन्द्र भगवंत...  
 
 ---
 
-## English (ಆಂಗ್ಲ )
+## English
+(ಆಂಗ್ಲ )
 
 Jinendra Bhagawanta । Aadinatha Arihanta ।।  
 Jinendra Bhagawanta । Aadinatha Arihanta ।।  
@@ -65,11 +73,14 @@ Madiya uttene । Munigalige aahara kottene ।। Jinendra Bhagawanta...
 (Words Meaning: Madiya = Clean washed clothes which are mainly used for doing puja/abhisheka; Uttena = Wore; [Muni](https://en.wikipedia.org/wiki/Digambara_monk) = Digambara Monk; Munigalu = Digambara Monks; Ge = To; Munigalige = To Digambara Monks; Aahara = Food; Kottene = Gave )  
 (Meaning: Wearing clean clothes । Giving food to muni ।। )  
 
-Aarukegala । Nitya tappane maadene ।।  
-Aarukegala । Nitya tappane maadene ।।  
+Aaru kriyegala । Nitya tappane maadene ।।  
+Aaru kriyegala । Nitya tappane maadene ।।  
+(Words Meaning: Aaru = 6; Kriye = action; Kriyegalu = actions; Nitya = Everyday; tappane = Without missing; Maadene = Do)  
+(Meaning: Doing 6 actions everyday without missing them।। 6 jain shravak actions - Deva pooja, Guru seva, Swadhyaya, Samyama, Tapa, Dana)
 Muruu ratnagala dharisi । Muktige hodene ।।  
 Muruu ratnagala dharisi । Muktige hodene ।। Jinendra Bhagawanta...  
 (Words Meaning: Muruu = 3; Ratna = Jewel; Ratnagala = Jewels; Dharisi = Wear; Mukti = Liberation; Ge = To; Muktige = To Liberation; Hodene = Go/went)  
-(Meaning: Wearing 3 jewels। heading towards liberation ।। )  
+(Meaning: Wearing 3 jewels। heading towards liberation ।। 
+3 jewels of jainism - Samyak Darshan, Samyak Jnaan, Samyak Charitra)  
 
 ---
