@@ -18,8 +18,8 @@
 
 ಜಿನೇಂದ್ರ ಭಗವಂತ । ಆದಿನಾಥ ಅರಿಹಂತ ।।  
 ಜಿನೇಂದ್ರ ಭಗವಂತ । ಆದಿನಾಥ ಅರಿಹಂತ ।।  
-ಬಸ್ದಿಗೆ ಬಂದೇನೇ । ದಿನಾ ??? ಕಲಿತೇನೆ ।।  
-ಬಸ್ದಿಗೆ ಬಂದೇನೇ । ದಿನಾ ??? ಕಲಿತೇನೆ ।। ಪ ।।  
+ಬಸ್ದಿಗೆ ಬಂದೇನೇ । ಜಿನ ಭಕ್ತಿಯ ಮಾಡೇನ ।।  
+ಬಸ್ದಿಗೆ ಬಂದೇನೇ । ಜಿನ ಭಕ್ತಿಯ ಮಾಡೇನ ।। ಪ ।।  
 
 ಮಿಥ್ಯಾತ್ವ ಬಿಟ್ಟೇನೆ । ಸಮ್ಯಕ್ ದರ್ಶನ ಧರಿಸೇನೆ ।।  
 ಮಿಥ್ಯಾತ್ವ ಬಿಟ್ಟೇನೆ । ಸಮ್ಯಕ್ ದರ್ಶನ ಧರಿಸೇನೆ ।।  
@@ -31,15 +31,19 @@
 ಮೂರೂ ರತ್ನಗಳ ಧರಿಸಿ । ಮುಕ್ತಿಗೆ ಹೋದೆನೇ ।।  
 ಮೂರೂ ರತ್ನಗಳ ಧರಿಸಿ । ಮುಕ್ತಿಗೆ ಹೋದೆನೇ ।। ಜಿನೇಂದ್ರ ಭಗವಂತ...  
 
+### Another version of the song
+
+![Alternate Version](Jinendra-Bhagawanta-Aadinatha-Arihanta.png "Jinendra Bhagawanta")
+
 ---
 
-## हिंदि 
+## हिंदि
 ( ಹಿಂದಿ / Hindi)
 
 जिनेन्द्र भगवंत । आदिनाथ अरिहंत ।।  
 जिनेन्द्र भगवंत । आदिनाथ अरिहंत ।।  
-बसदिगे बन्देने । दिना ??? ।।  
-बसदिगे बन्देने । दिना ??? ।। प ।।  
+बसदिगे बन्देने । जिन भक्तिय माडेना ।।  
+बसदिगे बन्देने । जिन भक्तिय माडेना ।। प ।।  
 
 मित्यत्व बिट्टेने । सम्यक दर्शन दरिसेने ।।  
 मित्यत्व बिट्टेने । सम्यक दर्शन दरिसेने ।।  
@@ -53,34 +57,61 @@
 
 ---
 
+
 ## English
-(ಆಂಗ್ಲ )
+( ಆಂಗ್ಲ )
 
+```
 Jinendra Bhagawanta । Aadinatha Arihanta ।।  
 Jinendra Bhagawanta । Aadinatha Arihanta ।।  
-(Words Meaning: Jinendra = Jina + Indra i.e., king of jinas => [Tirthankara](https://en.wikipedia.org/wiki/Tirthankara); Bhagawan = God; [Aadinatha](https://en.wikipedia.org/wiki/Rishabhanatha) = First Tirthankara; [Arihanta](https://en.wikipedia.org/wiki/Arihant_%28Jainism%29) = Sould who has conquered all inner karmas)  
-Basadige bandene । dinaa ??? ।।  
-Basadige bandene । dinaa ??? ।। P ।।  
-(Words Meaning: [Basadi](https://en.wikipedia.org/wiki/Jain_temple) = Jain Temple; Ge = To; Bandena = Came; Dina = Everyday )  
-(Meaning: Coming to Jain Temple ।  Everyday ??? )  
+```
+### Words Meaning
+Jinendra = Jina + Indra i.e., king of jinas => [Tirthankara](https://en.wikipedia.org/wiki/Tirthankara); Bhagawan = God; [Aadinatha](https://en.wikipedia.org/wiki/Rishabhanatha) = First Tirthankara; [Arihanta](https://en.wikipedia.org/wiki/Arihant_%28Jainism%29) = Sould who has conquered all inner karmas)  
 
+```
+Basadige bandene । jina bhaktiya madena ।।  
+Basadige bandene । jina bhaktiya madena ।। P ।।  
+```
+### Words Meaning
+[Basadi](https://en.wikipedia.org/wiki/Jain_temple) = Jain Temple; Ge = To; Bandena = Came; Madena = To Do )  
+### Meaning
+Coming to Jain Temple । Worshipping Jina ।। 
+
+```
 Mityatva Bittene । Samyak Darshana Dharisene ।।  
 Mityatva Bittene । Samyak Darshana Dharisene ।।  
-(Words Meaning: Mityatva = False; Bittene = Leave; Samyak = Right; Darshana = Perception; Dharisene = Wear)  
-(Meaning: Leaving the false perception । Wearing (adapting) the right perception ।। )  
+```
+### Words Meaning
+Mityatva = False; Bittene = Leave; Samyak = Right; Darshana = Perception; Dharisene = Wear  
+### Meaning
+Leaving the false perception । Wearing (adapting) the right perception ।। 
+
+```
 Madiya uttene । Munigalige aahara kottene ।।  
 Madiya uttene । Munigalige aahara kottene ।। Jinendra Bhagawanta...  
-(Words Meaning: Madiya = Clean washed clothes which are mainly used for doing puja/abhisheka; Uttena = Wore; [Muni](https://en.wikipedia.org/wiki/Digambara_monk) = Digambara Monk; Munigalu = Digambara Monks; Ge = To; Munigalige = To Digambara Monks; Aahara = Food; Kottene = Gave )  
-(Meaning: Wearing clean clothes । Giving food to muni ।। )  
+```
+### Words Meaning
+Madiya = Clean washed clothes which are mainly used for doing puja/abhisheka; Uttena = Wore; [Muni](https://en.wikipedia.org/wiki/Digambara_monk) = Digambara Monk; Munigalu = Digambara Monks; Ge = To; Munigalige = To Digambara Monks; Aahara = Food; Kottene = Gave   
+### Meaning
+Wearing clean clothes । Giving food to muni ।।   
 
+```
 Aaru kriyegala । Nitya tappane maadene ।।  
 Aaru kriyegala । Nitya tappane maadene ।।  
-(Words Meaning: Aaru = 6; Kriye = action; Kriyegalu = actions; Nitya = Everyday; tappane = Without missing; Maadene = Do)  
-(Meaning: Doing 6 actions everyday without missing them।। 6 jain shravak actions - Deva pooja, Guru seva, Swadhyaya, Samyama, Tapa, Dana)
+```
+### Words Meaning
+Aaru = 6; Kriye = action; Kriyegalu = actions; Nitya = Everyday; tappane = Without missing; Maadene = Do 
+### Meaning
+Doing 6 actions everyday without missing them।। 6 jain shravak actions - Deva pooja, Guru seva, Swadhyaya, Samyama, Tapa, Dana
+
+```
 Muruu ratnagala dharisi । Muktige hodene ।।  
 Muruu ratnagala dharisi । Muktige hodene ।। Jinendra Bhagawanta...  
-(Words Meaning: Muruu = 3; Ratna = Jewel; Ratnagala = Jewels; Dharisi = Wear; Mukti = Liberation; Ge = To; Muktige = To Liberation; Hodene = Go/went)  
-(Meaning: Wearing 3 jewels। heading towards liberation ।। 
+```
+### Words Meaning
+Muruu = 3; Ratna = Jewel; Ratnagala = Jewels; Dharisi = Wear; Mukti = Liberation; Ge = To; Muktige = To Liberation; Hodene = Go/went)  
+### Meaning
+Wearing 3 jewels। heading towards liberation ।। 
 3 jewels of jainism - Samyak Darshan, Samyak Jnaan, Samyak Charitra)  
 
 ---
