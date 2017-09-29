@@ -34,8 +34,8 @@
 ```
 ಜಿನೇಂದ್ರ ಭಗವಂತ । ಆದಿನಾಥ ಅರಿಹಂತ ।।  
 ಜಿನೇಂದ್ರ ಭಗವಂತ । ಆದಿನಾಥ ಅರಿಹಂತ ।।  
-ಬಸ್ದಿಗೆ ಬಂದೇನೇ । ಜಿನ ??? ಮಾಡೇನ ।।  
-ಬಸ್ದಿಗೆ ಬಂದೇನೇ । ಜಿನ ??? ಮಾಡೇನ ।। ಪ ।।  
+ಬಸ್ದಿಗೆ ಬಂದೇನೇ । ಜಿನ ಸಂಸ್ಕರೆ ಕಲಿತೇನೆ ।।  
+ಬಸ್ದಿಗೆ ಬಂದೇನೇ । ಜಿನ ಸಂಸ್ಕರೆ ಕಲಿತೇನೆ ।। ಪ ।।  
 ```
 
 ```
@@ -63,8 +63,8 @@
 ```
 जिनेन्द्र भगवंत । आदिनाथ अरिहंत ।।  
 जिनेन्द्र भगवंत । आदिनाथ अरिहंत ।।  
-बसदिगे बन्देने । जिन ??? माडेना ।।  
-बसदिगे बन्देने । जिन ??? माडेना ।। प ।।  
+बसदिगे बन्देने । जिन संस्करे कलितेने ।।  
+बसदिगे बन्देने । जिन संस्करे कलितेने ।। प ।।  
 ```
 ```
 मित्यत्व बिट्टेने । सम्यक दर्शन दरिसेने ।।  
@@ -94,17 +94,17 @@ Jinendra Bhagawanta । Aadinatha Arihanta ।।
 Jinendra = Jina + Indra i.e., king of jinas => [Tirthankara](https://en.wikipedia.org/wiki/Tirthankara); Bhagawan = God; [Aadinatha](https://en.wikipedia.org/wiki/Rishabhanatha) = First Tirthankara; [Arihanta](https://en.wikipedia.org/wiki/Arihant_%28Jainism%29) = Sould who has conquered all inner karmas)  
 
 ```
-Basadige bandene । jina ??? kalitene ।।  
-Basadige bandene । jina ??? kalitene ।। P ।।  
+Basadige bandene । jina sanskare kalitene ।।  
+Basadige bandene । jina sanskare kalitene ।। P ।।  
 ```
 
 ### Words Meaning
 
-[Basadi](https://en.wikipedia.org/wiki/Jain_temple) = Jain Temple; Ge = To; Bandena = Came; Kalitena = To Learn )  
+[Basadi](https://en.wikipedia.org/wiki/Jain_temple) = Jain Temple; Ge = To; Bandena = Came; Sanskare/Sanskara = Ethics, Principles; Kalitena = To Learn )  
 
 ### Meaning
 
-Coming to Jain Temple । Learning Jina ??? ।। 
+Coming to Jain Temple । Learning Jina Principles ।। 
 
 ```
 Mityatva Bittene । Samyak Darshana Dharisene ।।  
