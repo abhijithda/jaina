@@ -6,9 +6,9 @@ _References_
 <!-- TOC -->
 
 - [Time](#time)
-    - [ಕನ್ನಡ ( कन्नड़ / Kannada )](#%E0%B2%95%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%A1-%E0%A4%95%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A5%9C-kannada)
-    - [हिंदि ( ಹಿಂದಿ / Hindi)](#%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A4%BF-%E0%B2%B9%E0%B2%BF%E0%B2%82%E0%B2%A6%E0%B2%BF-hindi)
-    - [ಕನ್ನಡ / हिंदि / English](#%E0%B2%95%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%A1-%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A4%BF-english)
+    - [ಕನ್ನಡ ( कन्नड़ / Kannada )](#ಕನ್ನಡ--कन्नड़--kannada-)
+    - [हिंदि ( ಹಿಂದಿ / Hindi)](#हिंदि--ಹಿಂದಿ--hindi)
+    - [ಕನ್ನಡ / हिंदि / English](#ಕನ್ನಡ--हिंदि--english)
 
 <!-- /TOC -->
 

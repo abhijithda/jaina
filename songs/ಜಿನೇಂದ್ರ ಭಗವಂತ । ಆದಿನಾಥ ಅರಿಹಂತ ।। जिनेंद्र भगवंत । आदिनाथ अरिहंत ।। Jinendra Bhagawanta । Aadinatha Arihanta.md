@@ -10,22 +10,22 @@
 
 <!-- TOC -->
 
-- [ಜಿನೇಂದ್ರ ಭಗವಂತ । ಆದಿನಾಥ ಅರಿಹಂತ ।। जिनेंद्र भगवंत । आदिनाथ अरिहंत ।। Jinendra Bhagawanta । Aadinatha Arihanta ।।](#%E0%B2%9C%E0%B2%BF%E0%B2%A8%E0%B3%87%E0%B2%82%E0%B2%A6%E0%B3%8D%E0%B2%B0-%E0%B2%AD%E0%B2%97%E0%B2%B5%E0%B2%82%E0%B2%A4-%E0%A5%A4-%E0%B2%86%E0%B2%A6%E0%B2%BF%E0%B2%A8%E0%B2%BE%E0%B2%A5-%E0%B2%85%E0%B2%B0%E0%B2%BF%E0%B2%B9%E0%B2%82%E0%B2%A4-%E0%A5%A4%E0%A5%A4-%E0%A4%9C%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0-%E0%A4%AD%E0%A4%97%E0%A4%B5%E0%A4%82%E0%A4%A4-%E0%A5%A4-%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A4%BE%E0%A4%A5-%E0%A4%85%E0%A4%B0%E0%A4%BF%E0%A4%B9%E0%A4%82%E0%A4%A4-%E0%A5%A4%E0%A5%A4-jinendra-bhagawanta-%E0%A5%A4-aadinatha-arihanta-%E0%A5%A4%E0%A5%A4)
-    - [ಕನ್ನಡ ( कन्नड़ / Kannada )](#%E0%B2%95%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%A1-%E0%A4%95%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A5%9C-kannada)
+- [ಜಿನೇಂದ್ರ ಭಗವಂತ । ಆದಿನಾಥ ಅರಿಹಂತ ।। जिनेंद्र भगवंत । आदिनाथ अरिहंत ।। Jinendra Bhagawanta । Aadinatha Arihanta ।।](#ಜಿನೇಂದ್ರ-ಭಗವಂತ-।-ಆದಿನಾಥ-ಅರಿಹಂತ-।।-जिनेंद्र-भगवंत-।-आदिनाथ-अरिहंत-।।-jinendra-bhagawanta-।-aadinatha-arihanta-।।)
+    - [ಕನ್ನಡ ( कन्नड़ / Kannada )](#ಕನ್ನಡ--कन्नड़--kannada-)
         - [Another version of the song](#another-version-of-the-song)
-    - [हिंदि ( ಹಿಂದಿ / Hindi )](#%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A4%BF-%E0%B2%B9%E0%B2%BF%E0%B2%82%E0%B2%A6%E0%B2%BF-hindi)
-    - [English ( ಆಂಗ್ಲ )](#english-%E0%B2%86%E0%B2%82%E0%B2%97%E0%B3%8D%E0%B2%B2)
+    - [हिंदि ( ಹಿಂದಿ / Hindi )](#हिंदि--ಹಿಂದಿ--hindi-)
+    - [English ( ಆಂಗ್ಲ )](#english--ಆಂಗ್ಲ-)
         - [Words Meaning](#words-meaning)
-        - [Words Meaning](#words-meaning)
+        - [Words Meaning](#words-meaning-1)
         - [Meaning](#meaning)
-        - [Words Meaning](#words-meaning)
-        - [Meaning](#meaning)
-        - [Words Meaning](#words-meaning)
-        - [Meaning](#meaning)
-        - [Words Meaning](#words-meaning)
-        - [Meaning](#meaning)
-        - [Words Meaning](#words-meaning)
-        - [Meaning](#meaning)
+        - [Words Meaning](#words-meaning-2)
+        - [Meaning](#meaning-1)
+        - [Words Meaning](#words-meaning-3)
+        - [Meaning](#meaning-2)
+        - [Words Meaning](#words-meaning-4)
+        - [Meaning](#meaning-3)
+        - [Words Meaning](#words-meaning-5)
+        - [Meaning](#meaning-4)
 
 <!-- /TOC -->
 
