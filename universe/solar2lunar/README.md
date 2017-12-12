@@ -4,7 +4,7 @@
 
 Install the required node dependencies.
 
-```
+```bash
 npm install
 ```
 
@@ -12,6 +12,6 @@ npm install
 
 Start the UI.
 
-```
+```bat
 npm start
 ```

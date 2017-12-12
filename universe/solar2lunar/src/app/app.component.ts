@@ -23,20 +23,6 @@ export class LunarAge {
   <h2>{{lunarAge.name}}'s birth date!</h2>
   <h1>{{birthdate}}</h1>
   </div> 
-  
-  <!--
-  <input [(ngModel)]="lunarAge.yy" placeholder="year">
-  <input [(ngModel)]="lunarAge.mm" placeholder="month">
-  <input [(ngModel)]="lunarAge.dd" placeholder="day">
-  </div>
-  <h2>{{lunarAge.name}} birth date!</h2>
-  <h1>{{lunarAge.yy}} {{lunarAge.mm}} {{lunarAge.dd}}</h1>
-  <p>Today is {{today | date}}</p>
-  <p>Or if you prefer, {{today | date:'fullDate'}}</p>
-  <p>The time is {{today | date:'jmZ'}}</p>
-  -->
-
-
   `,
 })
 
