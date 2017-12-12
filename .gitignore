@@ -1,2 +1,4 @@
-
+*.js.map
+*.log
 *.swp
+universe/solar2lunar/node_modules/**
