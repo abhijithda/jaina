@@ -1,6 +1,6 @@
 # ಜಿನೇಂದ್ರ ಭಗವಂತ । ಆದಿನಾಥ ಅರಿಹಂತ ।। जिनेंद्र भगवंत । आदिनाथ अरिहंत ।। Jinendra Bhagawanta । Aadinatha Arihanta ।।
 
----
+> Table of Contents
 
 <!-- TOC -->
 
