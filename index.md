@@ -6,10 +6,11 @@
     - [Hobby](#hobby)
       - [JnaanBot](#jnaanbot)
     - [Work](#work)
+  - [Tech Favorites](#tech-favorites)
+  - [Personal](#personal)
+    - [Story](#story)
 
 ## Projects
-
-Here are some of the projects:
 
 ### Academic
 
@@ -24,50 +25,24 @@ My academic projects and presentations like **Ant Colony Optimization (ACO)**, *
 It's used by [DJ Sangh](http://djsangh.org/) telegram app group for querying details, and getting notifications on events like Thirthankara Kalyanakas, Astami, Chathurdashi and so on.
 
 - Source Code: <https://github.com/abhijithda/JnaanBot>.
-- Demo/Try JnaanBot: <http://t.me/djsanghbot>.
+- Demo JnaanBot: <http://t.me/djsanghbot>.
 
 ### Work
 
 Details about my work related projects can be found here: <https://www.linkedin.com/in/abhijithda>
 
-<!--
+## Tech Favorites
 
-## Template content
+--- | ---
+--- | ---
+Diagram | draw.io :diamonds:
+Document format | Markdown :diamonds:
+Editor | Microsoft Visual Studio Code :diamonds:, vim
+Language | Golang :diamonds:, Perl, C
+Screen capture animation | LICEcap :diamonds:
 
-You can use the [editor on GitHub](https://github.com/abhijithda/abhijithda.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Personal
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Story
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abhijithda/abhijithda.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
--->
+![abhijith-pallavi](https://www.draw.io/?lightbox=1&p=ex&highlight=0000ff&layers=1&nav=1&title=abhijith-pallavi.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1ISMKScY4ChuzLAKkPKYLOScNvTwTMWD6%26export%3Ddownload)
