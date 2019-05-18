@@ -1,4 +1,38 @@
-## Welcome to GitHub Pages
+# Welcome to Abhijith D.A. Pages
+
+- [Welcome to Abhijith D.A. Pages](#welcome-to-abhijith-da-pages)
+  - [Projects](#projects)
+    - [Academic](#academic)
+    - [Hobby](#hobby)
+      - [JnaanBot](#jnaanbot)
+    - [Work](#work)
+
+## Projects
+
+Here are some of the projects:
+
+### Academic
+
+My academic projects and presentations like **Ant Colony Optimization (ACO)**, **Scheduling of Marketing Executive (SME)**, and so on can be found [here](https://github.com/abhijithda/academic).
+
+### Hobby
+
+#### JnaanBot
+
+[JnaanBot](http://t.me/djsanghbot) is a [Telegram App Bot](https://core.telegram.org/bots). It can configured to send notifications to an individual or a group, and can also be used to answer questions.
+
+It's used by [DJ Sangh](http://djsangh.org/) telegram app group for querying details, and getting notifications on events like Thirthankara Kalyanakas, Astami, Chathurdashi and so on.
+
+- Source Code: <https://github.com/abhijithda/JnaanBot>.
+- Demo/Try JnaanBot: <http://t.me/djsanghbot>.
+
+### Work
+
+Details about my work related projects can be found here: <https://www.linkedin.com/in/abhijithda>
+
+<!--
+
+## Template content
 
 You can use the [editor on GitHub](https://github.com/abhijithda/abhijithda.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +69,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+-->
