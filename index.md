@@ -36,11 +36,11 @@ Details about my work related projects can be found here: <https://www.linkedin.
 
 --- | ---
 --- | ---
-Diagram | draw.io :diamonds:
-Document format | Markdown :diamonds:
-Editor | Microsoft Visual Studio Code :diamonds:, vim
-Language | Golang :diamonds:, Perl, C
-Screen capture animation | LICEcap :diamonds:
+Diagram | draw.io
+Document format | Markdown
+Editor | MS Visual Studio Code, vim
+Language | Go, Perl, C
+Screen capture animation | LICEcap
 
 ## Personal
 
