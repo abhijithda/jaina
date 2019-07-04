@@ -21,7 +21,7 @@ Kannada Name | English Name | Image | Notes
 ಚಪ್ಪರದ ಅವರೆಕಾಯಿ | | |
 ಬಾಳೆಕಾಯಿ | | |
 ಬೆಂಡೆಕಾಯಿ | | |
-ಟೊಮೇಟೊ | Tomato | ![Tomato](https://upload.wikimedia.org/wikipedia/commons/d/d2/Tomatoes_plain_and_sliced.jpg) ![Tomato Plant](https://upload.wikimedia.org/wikipedia/commons/7/7a/Tomato_plant_1.jpg) |
+ಟೊಮೇಟೊ | Tomato | ![Tomato Plant](https://upload.wikimedia.org/wikipedia/commons/7/7a/Tomato_plant_1.jpg) |
 ತೊಗರಿಕಾಯಿ | | |
 ತೊಂಡೆಕಾಯಿ | | |
 ಸೀಮೆಬದನೆಕಾಯಿ | | |
