@@ -1,6 +1,5 @@
 ---
 layout: page
-# title: ವ್ರತಗಳು
 permalink: /jain/time/
 ---
 
@@ -35,11 +34,11 @@ _References_:
 
 ## ಕನ್ನಡ / हिंदि / English
 
-| Name | Value | Reference |
-| - | - | - |
-| ಘಡಿ / घड़ि / Ghadi | ೨೪ mins / २४ mins / 24 mins | <https://youtu.be/o853Qt14R6c?t=17m45s> |
-| ಮೂಹೂರ್ತ / मुहूर्त / Muhurta | ೨ ಘಡಿ / २ घड़ि / 2 Ghadi | <https://youtu.be/o853Qt14R6c?t=17m45s>
-| ಕಾಲ / काल / Kaala | ೩ ಮುಹೂರ್ತ / ೬ ಘಡಿ / ३ मुहूर्त / ६ घड़ि / 3 Muhurta / 6 Ghadi | <https://youtu.be/o853Qt14R6c?t=17m45s> |
-| ದಿನ / दिन / Dina (day) | ೩೦ ಮೂಹೂರ್ತಗಳು / ३० मुहूर्त / 30 Muhurta |
-| ಮಾಸ / मास / Maasa (month) | ೩೦ ದಿನಗಳು / ३० दिन / 30 days |
-| ವರ್ಷ / वर्ष / Varusha (year) | ೩೬೦ ದಿನಗಳು / ३०० दिन / 360 days |
+| Name                         | Value                                                       | Reference                               |
+| ---------------------------- | ----------------------------------------------------------- | --------------------------------------- |
+| ಘಡಿ / घड़ि / Ghadi            | ೨೪ mins / २४ mins / 24 mins                                 | <https://youtu.be/o853Qt14R6c?t=17m45s> |
+| ಮೂಹೂರ್ತ / मुहूर्त / Muhurta  | ೨ ಘಡಿ / २ घड़ि / 2 Ghadi                                     | <https://youtu.be/o853Qt14R6c?t=17m45s> |
+| ಕಾಲ / काल / Kaala            | ೩ ಮುಹೂರ್ತ / ೬ ಘಡಿ / ३ मुहूर्त / ६ घड़ि / 3 Muhurta / 6 Ghadi | <https://youtu.be/o853Qt14R6c?t=17m45s> |
+| ದಿನ / दिन / Dina (day)       | ೩೦ ಮೂಹೂರ್ತಗಳು / ३० मुहूर्त / 30 Muhurta                     |
+| ಮಾಸ / मास / Maasa (month)    | ೩೦ ದಿನಗಳು / ३० दिन / 30 days                                |
+| ವರ್ಷ / वर्ष / Varusha (year) | ೩೬೦ ದಿನಗಳು / ३०० दिन / 360 days                             |
